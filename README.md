@@ -1,6 +1,6 @@
 # Portfolio
 
-This is Simple Static Webpage Created with HTML CSS (Flexbox)
+This is Simple Static Webpage Created with HTML CSS (Flexbox & Grid)
 
 ## Tools Used
 
